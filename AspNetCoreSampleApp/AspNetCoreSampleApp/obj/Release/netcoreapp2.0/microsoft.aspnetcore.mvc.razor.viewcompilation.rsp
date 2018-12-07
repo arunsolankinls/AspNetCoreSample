@@ -1,0 +1,17 @@
+E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=AspNetCoreSampleApp
+--content-root=E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp
+--file=E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp\Views\Employee\Create.cshtml
+--file=E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp\Views\Employee\Index.cshtml
+--file=E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp\Views\Employee\List.cshtml
+--file=E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp\Views\Employee\_EmployeeList.cshtml
+--file=E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp\Views\Home\About.cshtml
+--file=E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp\Views\Home\Contact.cshtml
+--file=E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp\Views\Home\DisplayResult.cshtml
+--file=E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp\Views\Home\Index.cshtml
+--file=E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp\Views\Shared\Error.cshtml
+--file=E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp\Views\Shared\_Layout.cshtml
+--file=E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp\Views\_ViewImports.cshtml
+--file=E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp\Views\_ViewStart.cshtml

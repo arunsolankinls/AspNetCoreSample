@@ -1,0 +1,41 @@
+﻿@model AspNetCoreSampleApp.Models.EmployeeModel;
+
+@using X.PagedList;
+@using X.PagedList.Mvc.Core;
+
+
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => Model.FirstName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => Model.MiddleName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => Model.LastName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => Model.DateOfBirth)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => Model.DateOfJoin)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => Model.Email)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => Model.PhoneNumber)
+    </td>
+    @*<td>
+            @Html.DisplayFor(modelItem => item.UploadImage)
+        </td>*@
+    <td>
+        @*@Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |*@
+        @Html.ActionLink("Delete", "Delete", new { id = Model.Id })
+    </td>
+</tr>

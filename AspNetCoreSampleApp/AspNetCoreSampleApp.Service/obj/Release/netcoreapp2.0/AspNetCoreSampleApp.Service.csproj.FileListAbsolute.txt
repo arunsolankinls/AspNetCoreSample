@@ -1,0 +1,11 @@
+E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp.Service\bin\Release\netcoreapp2.0\AspNetCoreSampleApp.Service.deps.json
+E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp.Service\bin\Release\netcoreapp2.0\AspNetCoreSampleApp.Service.dll
+E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp.Service\bin\Release\netcoreapp2.0\AspNetCoreSampleApp.Service.pdb
+E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp.Service\bin\Release\netcoreapp2.0\AspNetCoreSampleApp.Core.dll
+E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp.Service\bin\Release\netcoreapp2.0\AspNetCoreSampleApp.Core.pdb
+E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp.Service\obj\Release\netcoreapp2.0\AspNetCoreSampleApp.Service.csprojResolveAssemblyReference.cache
+E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp.Service\obj\Release\netcoreapp2.0\AspNetCoreSampleApp.Service.csproj.CoreCompileInputs.cache
+E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp.Service\obj\Release\netcoreapp2.0\AspNetCoreSampleApp.Service.AssemblyInfoInputs.cache
+E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp.Service\obj\Release\netcoreapp2.0\AspNetCoreSampleApp.Service.AssemblyInfo.cs
+E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp.Service\obj\Release\netcoreapp2.0\AspNetCoreSampleApp.Service.dll
+E:\Arun\AspNetCoreSampleApp\AspNetCoreSampleApp.Service\obj\Release\netcoreapp2.0\AspNetCoreSampleApp.Service.pdb
